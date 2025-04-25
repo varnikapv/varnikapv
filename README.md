@@ -2,7 +2,7 @@
 
 <h3 align="center">Learning, building, and growing — one commit at a time</h3>
 
-#💫 About Me:
+💫 About Me:
 
 - 🎨 I’m currently exploring designing and frontend
 - 📬 How to reach me [Mail](pvarnika05@gmail.com)
