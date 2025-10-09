@@ -6,9 +6,13 @@
 
 
 -👩‍💻 I’m a Computer Science student passionate about tech and design
+
 -🎨 Currently exploring the world of Machine Learning and Frontend Development
+
 -🚀 I love turning creative ideas into interactive, user-friendly experiences
+
 -🌱 Always curious and learning something new — one project at a time^^
+
 - 📬 How to reach me [Mail](pvarnika05@gmail.com)
 
 - ## 🌐 Socials:
