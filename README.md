@@ -5,7 +5,7 @@
 💫 About Me:
 
 
--👩‍💻 This is a Computer Science student passionate about tech and design
+-👩‍💻 I love blending tech with creativity to build things that look good and work even better.
 
 -🎨 Currently exploring the world of Machine Learning and Frontend Development
 
