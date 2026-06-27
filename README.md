@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<h3 align="center">Check out my portfolio: [www.nikaa.tech](https://www.nikaa.tech)</h3>
+
 <h3 align="center">Learning, building, and growing — one commit at a time</h3>
 
 💫 About Me:
